@@ -1,9 +1,9 @@
 IEOR 4501 Final Project 
 ====
-Understanding Hired Rides in NYC
-===
-Creators: Joy Ren(jr4154), Yiwen Qian(yq2346)
-------
+            Understanding Hired Rides in NYC
+---------
+##### Creators: Joy Ren(jr4154), Yiwen Qian(yq2346)
+
 ## About the Project:
 *   Introduction:
 
