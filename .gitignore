@@ -1,5 +1,12 @@
-*.DS_Store
-*.ipynb_checkpoints*
-__pycache__/
 
-# Add more files & directories as needed
+*.sbx
+.DS_Store
+.ipynb_checkpoints/Project-checkpoint.ipynb
+*.prj
+*.sbn
+*.shp
+*.dbf
+*.xml
+*.csv
+*.shx
+*.parquet
