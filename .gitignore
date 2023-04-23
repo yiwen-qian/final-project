@@ -5,3 +5,11 @@ __pycache__/
 # Add more files & directories as needed
 *.csv
 *.parquet
+*.dbf
+*.db
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shx
+*.xml
