@@ -23,6 +23,7 @@ Understanding Hired Rides in NYC
     By analyzing hired-ride trip data from Uber and NYC Yellow Taxi from January 2009 through June 2015, and joining it with local historical weather data, we can identify trends and patterns that can help us understand the dynamics between taxis and ride-hailing companies. The project will provide SQL queries and visualizations to answer specific questions and support our findings.
     
 *   Requirements and Notes:
+
     The required libraries for Python Jupyter NoteBook are included in the ```requirements.txt``` file above.
     
-    Note: The heatmap cannot be displayed on the Project.ipynb when pushing to github, so we added a screen capture above.
+    Note: The heatmap cannot be displayed on the ```Project.ipynb``` when pushing to github, so we added a screen capture above.
